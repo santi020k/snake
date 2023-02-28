@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "snake-game",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,5 +14,26 @@
     "next": "13.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.14.2",
+    "@react-native-community/eslint-config": "^3.2.0",
+    "@types/jest": "^29.4.0",
+    "@types/react": "^18.0.28",
+    "@types/react-native": "^0.69.5",
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "eslint": "8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "2",
+    "eslint-plugin-jest": "^27.2.1",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-node": "11",
+    "eslint-plugin-promise": "4",
+    "eslint-plugin-react": "^7.32.2",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.2",
+    "typescript": "^4.9.5"
   }
 }

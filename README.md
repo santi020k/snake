@@ -1,26 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# What is this project
+
+I had a technical test where they asked me to make a little snake and initially I did it with JS Vanilla, but I wanted to take it to the next level to test my skills and have a simple but interesting project to show on my github, below is a list of things implemented and to implement:
+
+### Done
+- [x] React
+- [x] Next (YOLO)
+- [x] Typescript
+- [x] Eslint (Standard)
+- [x] Github Actions (Linter runner)
+- [x] Deploy vercel
+
+### Coming Soon
+- [ ] Pre-commit
+- [ ] Unit Testing
+- [ ] Run Tests with Github Actions
+- [ ] StoryBook
+- [ ] Atomic design (Create more components)
+- [ ] Home Page
+- [ ] Improve Game Play
+- [ ] Improve graphics
+
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
