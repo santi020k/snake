@@ -26,9 +26,12 @@ I had a technical test where they asked me to make a little snake and initially 
 
 ### v1
 
-- ![Game Over With Points](./public/github/v1/screenshot1.png)
-- ![Game Play](./public/github/v1/screenshot2.png)
-- ![Game Over Without Points](./public/github/v1/screenshot3.png)
+#### Game Over With Points
+![Game Over With Points](./public/github/v1/screenshot1.png)
+#### Game Play
+![Game Play](./public/github/v1/screenshot2.png)
+#### Game Over Without Points
+![Game Over Without Points](./public/github/v1/screenshot3.png)
 
 ## Getting Started
 
