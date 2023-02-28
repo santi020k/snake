@@ -11,6 +11,8 @@ I had a technical test where they asked me to make a little snake and initially 
 - [x] Deploy vercel
 
 ### Coming Soon
+- [ ] Improve full screen
+- [ ] Finish refactoring the view logic
 - [ ] Pre-commit
 - [ ] Unit Testing
 - [ ] Run Tests with Github Actions
@@ -20,6 +22,13 @@ I had a technical test where they asked me to make a little snake and initially 
 - [ ] Improve Game Play
 - [ ] Improve graphics
 
+## Screenshots
+
+### v1
+
+- ![Game Over With Points](./public/github/v1/screenshot1.png)
+- ![Game Play](./public/github/v1/screenshot2.png)
+- ![Game Over Without Points](./public/github/v1/screenshot3.png)
 
 ## Getting Started
 
